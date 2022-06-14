@@ -5,3 +5,4 @@
     include("app/database.php");
     include("app/function.php");
     include("app/routes.php");
+?>
